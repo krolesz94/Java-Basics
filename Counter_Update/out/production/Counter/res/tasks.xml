@@ -1,0 +1,1453 @@
+<?xml version="1.0" ?>
+<TC-DC_general_information xmlns:xlink="https://www.w3.org/1999/xlink">
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>00:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>00:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>00:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>00:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>00:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>00:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>00:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="101">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Data%20Warehouse/DWH%20-%20Nightly/">Data WareHouse Nightly</name>
+		<time>01:00</time>
+		<subtask1>01:10 onwards - Topics Import/Export Checks - for ATCom Module</subtask1>
+		<subtask2>01:30 onwards - Topics Log File Check</subtask2>
+		<subtask3>And so on until the end of the page</subtask3>
+		<subtask4/>
+	</task>
+	<task id="102">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Procedural_Steps/#pos-eod-status-check">POS EOD Mail Check</name>
+		<time>01:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>01:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>01:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>01:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>01:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>01:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>01:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>01:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>02:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>02:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>02:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>02:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>02:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>02:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>02:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="103">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#monday-0200-uk-restart">TOSCA</name>
+		<time>03:00</time>
+		<subtask1>Restart(MONDAY ONLY)</subtask1>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>03:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>03:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>03:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>03:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>03:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>03:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="104">
+		<name>FYI</name>
+		<time>03:30</time>
+		<subtask1>FZI - All 16 WAS-APP servers will alert at this stage, they're scheduled for a restart every day => no need to worry</subtask1>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>03:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>04:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>04:00</time>
+		<subtask1/>
+		<subtask2/>>
+		<subtask3/>>
+		<subtask4/>>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>04:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>04:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>04:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>04:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>04:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="105">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SAP/Procedural_Steps/">SAP</name>
+		<time>05:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="106">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Procedural_Steps/#webrio-sms-application-check">SMS Check</name>
+		<time>05:00</time>
+		<subtask1>WebRIO SMS Application Check</subtask1>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>05:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>05:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>05:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>05:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>05:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>05:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>05:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>06:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>06:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>06:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>06:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>06:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>06:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>06:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>07:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>07:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>07:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>07:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>07:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>07:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>07:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>08:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>08:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>08:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>08:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>08:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>08:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>08:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="107">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/EIB/EIB_-_Procedural_Steps/#checking-flag-files">EIB</name>
+		<time>09:00</time>
+		<subtask1>Check TOS_OK.flg</subtask1>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring
+		</name>
+		<time>09:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>09:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>09:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>09:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>09:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>09:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>09:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>10:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>10:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>10:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>10:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>10:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>10:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="108">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/France_Check/France_Check/#procedural-steps">Frence Check (Monday-Friday)</name>
+		<time>10:30</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>10:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>11:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>11:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca
+		</name>
+		<time>11:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>11:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>11:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>11:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>11:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>12:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>12:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>12:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>12:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>12:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>12:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>12:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>13:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>13:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>13:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>13:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>13:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>13:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>13:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>14:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>14:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>14:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>14:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>14:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>14:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>14:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="109">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Data%20Warehouse/DWH%20-%20Daily/">Data Warehouse</name>
+		<time>15:00</time>
+		<subtask1>14:00 - JMCDW SQL Server Backup</subtask1>
+		<subtask2>Around 14:00 - Check the remaining old files after the previous night</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>15:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>15:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>15:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>15:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>15:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>15:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>15:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>16:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>16:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>16:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>16:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>16:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>16:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="110">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Data%20Warehouse/DWH%20-%20Daily/#step-3-1530-saturday-only-passive-symcom-check">Passive Symcom Check (Saturday ONLY)</name>
+		<time>16:30</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>16:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>17:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>17:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>17:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>17:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>17:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>17:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>17:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>18:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>18:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>18:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>18:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>18:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>18:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>18:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>19:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>19:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>19:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>19:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>19:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>19:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="111">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Problem_Mail/Problem_Mail/">Problem Mail (Weekends and bank holiday only!)</name>
+		<time>19:30</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>19:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="112">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/MOPS/MOPS_-_Procedural_Steps/">MOPS</name>
+		<time>20:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>20:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>20:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>20:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>20:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>20:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>20:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>20:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="113">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/EIB/EIB_-_Procedural_Steps">EIB</name>
+		<time>21:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>21:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>21:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>21:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>21:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>21:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>21:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>21:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>22:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>22:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>22:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>22:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>22:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>22:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>22:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="001">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Procedural_Steps/#description">DMS monitoring</name>
+		<time>23:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="002">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/SFTP/Procedural_Steps/">SFTP</name>
+		<time>23:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="003">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/Tosca/Procedural_Steps/#additional-checks">Tosca</name>
+		<time>23:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>23:00</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+	<task id="005">
+		<name xlink:href="http://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/DMS/DMS_-_Zabbix_Alerts/">DMS Zabbix</name>
+		<time>23:00</time>
+		<subtask1>Check if OVO has any alert related to DMS Zabbix</subtask1>
+		<subtask2>Check if DMS Zabbix does not contain any disaster or high alert</subtask2>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="006">
+		<name xlink:href="http://10.17.28.12:8080/zabbix/screens.php?elementid=20">Zabbix Agent</name>
+		<time>23:00</time>
+		<subtask1/>
+		<subtask2/>
+		<subtask3/>
+		<subtask4/>
+	</task>
+	<task id="004">
+		<name xlink:href="https://sotwiki.w3ibm.mybluemix.net/Application_Jobaids/TCDC_Runops/WebRIO/Zabbix_Checks/#screens-to-monitor">WevRio via new Zabbix</name>
+		<time>23:30</time>
+		<subtask1>Host groups issues/Trigger info</subtask1>
+		<subtask2>Blocked sessions on database nodes</subtask2>
+		<subtask3>Database connection pools</subtask3>
+		<subtask4>RIO/RIOnode1/RIOnode2 Alive</subtask4>
+	</task>
+</TC-DC_general_information>

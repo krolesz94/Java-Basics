@@ -1,0 +1,31 @@
+<task id="">
+	<name xlink:href=""></name>
+	<time></time>
+	<subtask1></subtask1>
+	<subtask2></subtask2>
+	<subtask3></subtask3>
+	<subtask4></subtask4>
+</task>
+
+Regular
+id - 001 | hourly
+id - 002 | hourly
+id - 003 | hourly
+id - 004 | half an hourly
+id - 005 | hourly
+id - 006 | hourly
+
+Non-Regular
+id - 101 | daily
+id - 102 | daily
+id - 103 | weekly (Monday)
+id - 104 | daily
+id - 105 | daily
+id - 106 | daily
+id - 107 | daily
+id - 108 | only weekdays
+id - 109 | daily
+id - 110 | weekly (Saturday)
+id - 111 | only weekends & holidays
+id - 112 | daily
+id - 113 | daily
